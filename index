@@ -2,28 +2,38 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Nav</title>
 </head>
 
 <body>
-  <h1>
-    Hello
-  </h1>
-
-  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus, nostrum velit cumque deserunt odio unde magni
-    omnis voluptatibus aperiam qui deleniti, corrupti voluptas nisi quisquam esse facere quas assumenda error sunt
-    numquam earum repellat necessitatibus quae! Corporis dolore dolor repellendus corrupti ipsa totam vitae? Excepturi
-    debitis eveniet et laboriosam eligendi!</p>
-
-  <div class="modal">
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus, nostrum velit cumque deserunt odio unde
-      magni omnis voluptatibus aperiam qui deleniti, corrupti voluptas nisi quisquam esse facere quas assumenda error
-      sunt numquam earum repellat necessitatibus quae! Corporis dolore dolor repellendus corrupti ipsa totam vitae?
-      Excepturi debitis eveniet et laboriosam eligendi!</p>
-  </div>
+    <nav>
+        <ul>
+            <li>nav1</li>
+            <div class="container">
+                <li>nav2</li>
+                <div class="invisible">
+                    <li>One</li>
+                    <li>Two</li>
+                    <li>Three</li>
+                </div>
+            </div>
+            <li>nav3</li>
+            <li>nav4</li>
+        </ul>
+    </nav>
+    <h1>
+        This is the Nav HomeWork
+    </h1>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error mollitia ab illum! At, laboriosam voluptatibus
+        illo saepe tempora distinctio maxime. Laudantium, debitis soluta. Quo sint maiores blanditiis placeat dolorem
+        voluptate, dolor eum numquam expedita laudantium adipisci sunt possimus unde iste enim? Odit ipsa accusantium
+        dolorum ut eum a omnis fugit?
+    </p>
 </body>
 
 </html>
