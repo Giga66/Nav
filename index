@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>
+    Hello
+  </h1>
+
+  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus, nostrum velit cumque deserunt odio unde magni
+    omnis voluptatibus aperiam qui deleniti, corrupti voluptas nisi quisquam esse facere quas assumenda error sunt
+    numquam earum repellat necessitatibus quae! Corporis dolore dolor repellendus corrupti ipsa totam vitae? Excepturi
+    debitis eveniet et laboriosam eligendi!</p>
+
+  <div class="modal">
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus, nostrum velit cumque deserunt odio unde
+      magni omnis voluptatibus aperiam qui deleniti, corrupti voluptas nisi quisquam esse facere quas assumenda error
+      sunt numquam earum repellat necessitatibus quae! Corporis dolore dolor repellendus corrupti ipsa totam vitae?
+      Excepturi debitis eveniet et laboriosam eligendi!</p>
+  </div>
+</body>
+
+</html>
